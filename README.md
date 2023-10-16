@@ -1,4 +1,4 @@
-# Holiday Calculator Shiny App
+# Accrued-Vacationer Shiny App
 
 This Shiny app helps users calculate holiday hours and working days based on the provided input values.
 
