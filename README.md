@@ -10,11 +10,11 @@ This Shiny app helps users calculate holiday hours and working days based on the
 
 ## Screenshots
 
-> [Insert your app screenshot here]
+![Screenshot](img_1.png)
 
 ## Usage
 
-1. Open the Shiny app.
+1. Open the Shiny app in R (use the `shiny_holiday.R` file).
 2. Under the "Calculator" tab:
     - Enter your `Initial Holiday Hours`.
     - Enter the `Monthly Accrual Hours` - the number of holiday hours you accrue each month.
